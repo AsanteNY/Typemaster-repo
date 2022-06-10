@@ -1,0 +1,735 @@
+head {
+    background: #F2F2F2;
+}
+
+body {
+    background: #F2F2F2;
+}
+
+.Group_0 {
+    position: absolute;
+    width: 1110px;
+    height: 58px;
+    left: 165px;
+    top: 55px;
+}
+#order_1 {
+    position: absolute;
+    width: 175px;
+    height: 58px;
+    left: 1100px;
+    top: 43px;   
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #162542;
+    background-color: #E8EFF2;
+}
+
+#order_1:hover {
+    background-color: #162542;
+}
+
+.Group_1 {
+    position: absolute;
+    width: 445px;
+    height: 312px;
+    left: 165px;
+    top: 256px;
+}
+
+#Intro {
+    color: #162542;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 56px;
+    line-height: 56px;
+    text-transform: uppercase;
+}
+
+#description {
+    color:#7B8BAD;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+#pre-order {
+    color: #FFFFFF;
+    background-color: #F16718;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    border-radius: 8px;
+}
+#pre-order:hover {
+    background-color: #FF9B62;
+}
+label {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #7B8BAD;
+}
+
+#keyboard {
+    position: absolute;
+    width: 540px;
+    height: 480px;
+    left: 735px;
+    top: 196px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+#keyboard_and_phone {
+    position: absolute;
+    width: 255px;
+    height: 480px;
+    left: 165px;
+    top: 706px;
+    border-radius: 25px;
+    mix-blend-mode: multiply;
+    opacity: 0.75;
+}
+
+#keyboard_and_glass {
+    position: absolute;
+    width: 445px;
+    height: 480px;
+    left: 450px;
+    top: 706px;
+    border-radius: 25px;
+}
+
+.right_box {
+    position: absolute;
+    width: 255px;
+    height: 240px;
+    left: 1305px;
+    top: 196px;
+    color: #E8EFF2;
+    background: #E8EFF2;
+    border-radius: 20px;
+}
+.left_box {
+    position: absolute;
+    width: 255px;
+    height: 236px;
+    left: -120px;
+    top: 950px;
+    background: #E8EFF2;
+    border-radius: 20px;
+}
+
+.Group_3 {
+    position: absolute;
+    width: 255px;
+    height: 265px;
+    left: 1020px;
+    top: 818px;
+}
+
+#Mech {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #162542;
+}
+
+#Mech_desc {
+    color: #7B8BAD;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.Group_A {
+    position: absolute;
+    width: 255px;
+    height: 323px;
+    left: 165px;
+    top: 1354px;
+}
+
+
+#compatible {
+    color:#162542;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+}
+
+#compatible_text {
+    color: #7B8BAD;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.Group_B {
+position: absolute;
+width: 255px;
+height: 323px;
+left: 450px;
+top: 1354px;
+}
+
+#bluetooth {
+    color:#162542;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+}
+
+
+#bluetooth_text {
+    color: #7B8BAD;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.Group_C {
+    position: absolute;
+    width: 255px;
+    height: 323px;
+    left: 735px;
+    top: 1354px;
+}
+
+#battery {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #162542;
+}
+
+
+#battery_text {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+}
+
+.Group_D {
+    position: absolute;
+    width: 270px;
+    height: 323px;
+    left: 1005px;
+    top: 1354px;
+}
+
+#backlit {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #162542;
+}
+#backlit_text {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+}
+
+footer {
+    position: absolute;
+    width: 272px;
+    height: 26px;
+    left: 568px;
+    top: 1805px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+}
+ /* for mobile*/
+ @media screen and (max-width:480px) {
+.Group_0 {
+    position: absolute;
+    width: 327px;
+    height: 48px;
+    left: 24px;
+    top: 23px;
+}
+#order_1 {
+    position: absolute;
+    width: 151px;
+    height: 48px;
+    left: 200px;
+    top: 23px
+}
+.Group_1 {
+    position: absolute;
+    width: 327px;
+    height: 286px;
+    left: 24px;
+    top: 135px;
+ }
+#Intro {
+    position: absolute;
+    width: 327px;
+    height: 96px;
+    left: 24px;
+    top: 135px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #162542;
+}
+#description {
+    position: absolute;
+    width: 327px;
+    height: 78px;
+    left: 24px;
+    top: 263px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+}
+#pre-order {
+    position: absolute;
+    left: 0%;
+    right: 51.61%;
+    top: 0%;
+    bottom: 0%;
+}
+label {
+    position: absolute;
+    height: 26px;
+    left: 58.71%;
+    right: 0.32%;
+    top: calc(50% - 26px/2);
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+}
+#keyboard {
+    position: absolute;
+    width: 726.88px;
+    height: 409.66px;
+    left: -67.33px;
+    top: 445.43px;
+
+}
+#keyboard_and_phone {
+    position: absolute;
+    width: 129px;
+    height: 193px;
+    left: -22px;
+    top: 840px;
+}
+#keyboard_and_glass {
+    position: absolute;
+    width: 220px;
+    height: 193px;
+    left: 131px;
+    top: 840px;
+}
+#Mech {
+    position: absolute;
+    width: 255px;
+    height: 108px;
+    left: 60px;
+    top: 1108px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#Mech_desc {
+    position: absolute;
+    width: 327px;
+    height: 104px;
+    left: 24px;
+    top: 1240px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+}
+#compatible_svg {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 155px;
+    top: 1455px;
+}
+#compatible {position: absolute;
+    width: 327px;
+    height: 56px;
+    left: 24px;
+    top: 1568px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #162542;
+}
+#compatible_text {
+    position: absolute;
+    width: 327px;
+    height: 104px;
+    left: 24px;
+    top: 1648px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #7B8BAD;
+}
+#bluetooth_svg {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 155px;
+    top: 1816px;
+}
+#bluetooth {
+    position: absolute;
+    width: 327px;
+    height: 56px;
+    left: 24px;
+    top: 1929px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #162542;
+}
+#bluetooth_text {
+    position: absolute;
+    width: 327px;
+    height: 104px;
+    left: 24px;
+    top: 2009px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #7B8BAD;
+}
+#battery_svg {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 155px;
+    top: 2177px;
+}
+#battery {
+    position: absolute;
+    width: 327px;
+    height: 56px;
+    left: 24px;
+    top: 2290px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #162542;    
+}
+#battery_text {
+    position: absolute;
+    width: 327px;
+    height: 104px;
+    left: 24px;
+    top: 2370px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #7B8BAD;
+}
+#backlit_svg {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 155px;
+    top: 2538px;
+}
+#backlit {
+    position: absolute;
+    width: 327px;
+    height: 56px;
+    left: 27px;
+    top: 2651px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #162542;
+}
+#backlit_text {
+    position: absolute;
+    width: 327px;
+    height: 104px;
+    left: 27px;
+    top: 2731px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #7B8BAD;
+}
+footer {
+    position: absolute;
+    width: 272px;
+    height: 26px;
+    left: 51px;
+    top: 2931px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+}
+ }
+
+
+ /* for tablet */
+ @media screen and (min-width: 481px) and (max-width: 768px) {
+.Group_0 {
+    position: absolute;
+    width: 689px;
+    height: 58px;
+    left: 39px;
+    top: 40px;
+}
+#order_1 {
+    position: absolute;
+    height: 26px;
+    left: 14.86%;
+    right: 15.43%;
+    top: calc(50% - 26px/2);
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #162542;
+}
+
+#Intro {position: absolute;
+    width: 339px;
+    height: 96px;
+    left: 39px;
+    top: 220px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #162542;  
+}
+#description {
+    position: absolute;
+    width: 339px;
+    height: 78px;
+    left: 39px;
+    top: 350px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+}
+#pre-order {
+    position: absolute;
+    height: 26px;
+    left: 14.86%;
+    right: 15.43%;
+    top: calc(50% - 26px/2);
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #F16718; 
+}
+label {
+    position: absolute;
+    width: 127px;
+    height: 26px;
+    left: 251px;
+    top: 483px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #7B8BAD;
+}
+#keyboard {
+    position: absolute;
+    width: 478px;
+    height: 425px;
+    left: 447px;
+    top: 160px;       
+}
+#keyboard_and_phone {
+    position: absolute;
+    width: 214px;
+    height: 320px;
+    left: 39px;
+    top: 625px; 
+}
+#keyboard_and_glass {
+    position: absolute;
+    width: 445px;
+    height: 320px;
+    left: 283px;
+    top: 625px;
+}
+.Group_3{
+    position: absolute;
+    width: 689px;
+    height: 108px;
+    left: 39px;
+    top: 1017px;
+}
+#Mech {
+    position: absolute;
+    width: 255px;
+    height: 108px;
+    left: 39px;
+    top: 1017px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #162542;  
+}
+#Mech_desc {
+    position: absolute;
+    width: 398px;
+    height: 78px;
+    left: 330px;
+    top: 1032px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+}
+#features {
+    position: absolute;
+    width: 631px;
+    height: 650px;
+    left: 39px;
+    top: 1267px;
+}
+.Group_A{
+    position: absolute;
+    width: 339px;
+    height: 289px;
+    left: 39px;
+    top: 1267px;    
+}
+.Group_B {
+    position: absolute;
+    width: 281px;
+    height: 289px;
+    left: 389px;
+    top: 1267px;
+}
+.Group_C {
+    position: absolute;
+    width: 281px;
+    height: 289px;
+    left: 39px;
+    top: 1628px;
+}
+.Group_D {
+    position: absolute;
+    width: 281px;
+    height: 289px;
+    left: 389px;
+    top: 1628px;
+}
+ }
+
